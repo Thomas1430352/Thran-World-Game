@@ -1,2 +1,4 @@
 # Thran-World-Game
-This is a developmental game based off the youtube tutorial. It will be updated as I go as I learn more concepts about pygames and coding! 
+# This is a developmental game based on my games library.
+# It uses image files and CVS files and is hosted locally for unit modeling and map as well. 
+# A simple game with different weapons and different abilities.
